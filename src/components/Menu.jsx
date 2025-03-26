@@ -2,7 +2,7 @@ import { LanguageSwitcher } from './LanguageSwitcher';
 import { MenuHeader } from './MenuHeader';
 import { MenuSection } from './MenuSection';
 import { MenuFooter } from './MenuFooter';
-import { FiPhone, FiMapPin, FiInstagram } from 'react-icons/fi';
+
 
 export const Menu = ({ language, setLanguage }) => {
   const menuData = {
